@@ -1,0 +1,8 @@
+{
+  "action": "邀请一个独立批评者选择一项核心主张，并在7天内完成现实可证伪测试。",
+  "owner": "external_critic",
+  "status": "EXECUTED",
+  "reversible": true,
+  "scope": ["一个主张", "一个现实测试"],
+  "authority_reference": "PUBLIC_CRITIC_PROTOCOL"
+}

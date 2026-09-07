@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://dikwp.example/schemas/vitavector85/worldline.schema.json",
+  "title": "VITAVECTOR-85 Worldline",
+  "type": "object",
+  "required": ["schema", "worldline_id", "carrier", "dikwp", "direction_vector", "loop_diagnostics", "primary_transition", "mesh85"],
+  "properties": {
+    "schema": {"const": "vitavector85.worldline/1.0"},
+    "worldline_id": {"type": "string", "minLength": 3},
+    "carrier": {
+      "type": "object",
+      "required": ["carrier_id", "carrier_kind", "personhood_assessment", "humanity_score"],
+      "properties": {
+        "personhood_assessment": {"const": "NOT_PERFORMED"},
+        "humanity_score": {"type": "null"},
+        "intrinsic_worth_score": {"type": "null"}
+      }
+    },
+    "semantic_continuity": {"type": "object", "properties": {"vector": {"const": "11111"}}},
+    "loop_diagnostics": {"type": "object", "required": ["state", "flags", "applies_to", "never_applies_to"]},
+    "primary_transition": {"type": "object", "required": ["code", "primary_action", "owner", "deadline"]},
+    "mesh85": {"type": "object", "required": ["closure", "debts", "non_core_semantic_authority"]}
+  }
+}

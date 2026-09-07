@@ -1,0 +1,124 @@
+{
+  "schema": "dikwp-additive-source-preparation/v1",
+  "repository": "YucongDuan/Carrier-neutral-worldline-direction-zombie-loop-liberation-and-civilizational-transition-OS",
+  "bulk_index": 43,
+  "baseline_commit": "844763c3e4ef0b7acbaaa82a9238a1ff87065033",
+  "baseline_tree_url": "https://github.com/YucongDuan/Carrier-neutral-worldline-direction-zombie-loop-liberation-and-civilizational-transition-OS/tree/844763c3e4ef0b7acbaaa82a9238a1ff87065033",
+  "prepared_at": "2026-09-07T05:18:15.064457+00:00",
+  "status": "PREPARED_SOURCE_UNTESTED",
+  "archive_records": [
+    {
+      "original_archive_path": "DIKWP_VITAVECTOR_85_v1.0.0.zip",
+      "source_url": "https://raw.githubusercontent.com/YucongDuan/Carrier-neutral-worldline-direction-zombie-loop-liberation-and-civilizational-transition-OS/844763c3e4ef0b7acbaaa82a9238a1ff87065033/DIKWP_VITAVECTOR_85_v1.0.0.zip",
+      "sha256": "c1087ef3a175a1aaa3ddfafad01e38fab62305bdad5dc87a7e28ecb9f10ba45d",
+      "archive_bytes": 127520,
+      "depth": 0,
+      "parent_archive": null,
+      "source_directory": "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source",
+      "status": "PREPARED_UNTESTED",
+      "file_count": 83,
+      "expanded_bytes": 309906,
+      "wrapper_directory_removed": "DIKWP_VITAVECTOR_85_v1.0.0",
+      "project_marker_directories": [
+        "."
+      ],
+      "source_files": [
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/START_VITAVECTOR85.sh",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/assets/app.js",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/assets/styles.css",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/index.html",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/run.py",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/scripts/publish_github.sh",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/start_showcase.py",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/tests/test_core.py",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/tests/test_server.py",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/tests/test_store.py",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/tools/acceptance.py",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/tools/build_manifest.py",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/tools/static_audit.py",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/tools/verify_release.py",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/vitavector85/__init__.py",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/vitavector85/cli.py",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/vitavector85/core.py",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/vitavector85/resources/assets/app.js",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/vitavector85/resources/assets/styles.css",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/vitavector85/resources/index.html",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/vitavector85/server.py",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/vitavector85/store.py",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/生向_VITAVECTOR85_离线展示_双击打开_v1.0.0.html"
+      ],
+      "build_markers": [
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/Makefile",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/pyproject.toml"
+      ],
+      "test_markers": [
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/tests/test_core.py",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/tests/test_server.py",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/tests/test_store.py"
+      ],
+      "license_paths": [
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/LICENSE",
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/NOTICE"
+      ],
+      "quarantined_workflows": [
+        "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/review-quarantine/.github/workflows/ci.yml"
+      ],
+      "secret_findings": []
+    }
+  ],
+  "blockers": [],
+  "test_status": "NOT_RUN",
+  "code_executed": false,
+  "preparation_tool": {
+    "pipeline_version": "1.3",
+    "pipeline_sha256": "34228db5c1096b75917f28a38597db58391c25eb7b12474a4eb01ca725b2e5a2",
+    "archive_safety_tool_sha256": "0823c9f48d4cbef435bc4ebae237160f0df729daa19fd894d66a70f311fc4737",
+    "normalizer_sha256": "e89ea55d49a044f3117e5f5b6b21c1032a9768f115f339bda907d76c943e20a4",
+    "related_repository_input_sha256": "27f19ab577696990a311162cca5e43bbbd2cb8e4f13ee5525240e1d3cd9211f4",
+    "recovery_7z_metadata_sha256": "33214a12abe7090df5bfeffe95c099034e4db9bbeddba8cd2b6dc9a60aed1a45",
+    "recovery_7z_converter_sha256": "a03c23186745442458b5755e3afc7d9795aef8c7c3aa03c14003ec3407e63b9d",
+    "limits": {
+      "max_entries": 20000,
+      "max_file_bytes": 103809024,
+      "max_total_bytes": 536870912,
+      "max_archive_bytes": 104857600,
+      "max_ratio": 200.0,
+      "max_path_depth": 64,
+      "max_path_bytes": 1024
+    },
+    "max_repository_expanded_bytes": 1073741824,
+    "max_nested_depth": 4,
+    "max_archives_per_repository": 64
+  },
+  "remote_write_performed": false,
+  "related_repositories": [
+    {
+      "name": "DIKWP-TRANSITION-COMMONS",
+      "url": "https://github.com/YucongDuan/DIKWP-TRANSITION-COMMONS"
+    },
+    {
+      "name": "HEHENG-China-AI-Co-Benefit-Transition-Organizational-Resilience-OS",
+      "url": "https://github.com/YucongDuan/HEHENG-China-AI-Co-Benefit-Transition-Organizational-Resilience-OS"
+    },
+    {
+      "name": "HUMAN-INTENT-COMMONS-YIYUAN-19.0.0",
+      "url": "https://github.com/YucongDuan/HUMAN-INTENT-COMMONS-YIYUAN-19.0.0"
+    },
+    {
+      "name": "HumanityLoop",
+      "url": "https://github.com/YucongDuan/HumanityLoop"
+    },
+    {
+      "name": "DIKWP-GLOBAL-ACTIVE-ECONOMY-CIVICWEAVE",
+      "url": "https://github.com/YucongDuan/DIKWP-GLOBAL-ACTIVE-ECONOMY-CIVICWEAVE"
+    }
+  ],
+  "totals": {
+    "expanded_bytes": 309906,
+    "archives": 1,
+    "files": 83,
+    "source_files": 23,
+    "workflow_files": 1
+  },
+  "evidence_boundary": "Additive source visibility only; original code bytes preserved; no execution, license reassignment, certification, or remote write."
+}

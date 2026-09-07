@@ -1,0 +1,9 @@
+{
+  "name": "生向 VITAVECTOR-85",
+  "short_name": "VITAVECTOR-85",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#06100d",
+  "theme_color": "#07110f",
+  "icons": []
+}

@@ -1,0 +1,40 @@
+{
+  "title": "平台吸收个体能力但不返还的协作循环",
+  "carrier_id": "demo-parasite-001",
+  "carrier_label": "合成平台流程",
+  "carrier_kind": "institution",
+  "context": "平台持续吸收个体数据、注意力与方法，个体依赖增加，贡献来源和受影响者表达被弱化。",
+  "sources": [
+    "平台日志",
+    "用户反馈"
+  ],
+  "observations": [
+    "使用时长增长",
+    "创作者收益和控制权下降"
+  ],
+  "differences": [
+    "平台称效率提高，贡献者报告自主性下降"
+  ],
+  "affected_worlds": [
+    "创作者",
+    "普通用户",
+    "未来维护者"
+  ],
+  "purpose": "停止无返还抽取并建立可验证互惠。",
+  "repeated_cycle_count": 4,
+  "external_difference_count": 1,
+  "accepted_corrections_count": 0,
+  "world_effect_count": 0,
+  "public_return_count": 0,
+  "affected_voice_count": 0,
+  "novelty_count": 1,
+  "source_diversity_count": 2,
+  "agency_change": "shrunk",
+  "dependency_change": "increased",
+  "resource_return_change": "negative",
+  "future_options_change": "shrunk",
+  "cross_carrier_change": "unilateral",
+  "hidden_control": false,
+  "claims_value_without_observation": true,
+  "owner": "platform_governance"
+}

@@ -1,0 +1,15 @@
+{
+  "observed": true,
+  "summary": "外部测试推翻了旧结论的一部分，团队公开修订并形成新的可复用方法。",
+  "new_external_differences": ["外部数据与原自证链不一致"],
+  "accepted_corrections": ["缩小核心主张适用范围"],
+  "world_effects": ["停止重复发布旧结论", "新方法被另一团队复用"],
+  "affected_feedback": ["维护者负担下降", "外部使用者更容易理解边界"],
+  "public_returns": ["可复现实验模板"],
+  "repair_actions": ["公开更正", "归档旧版本"],
+  "agency_change": "expanded",
+  "dependency_change": "decreased",
+  "resource_return_change": "positive",
+  "future_options_change": "expanded",
+  "correction": "撤回此前把闭环完整性等同于现实有效性的判断。"
+}

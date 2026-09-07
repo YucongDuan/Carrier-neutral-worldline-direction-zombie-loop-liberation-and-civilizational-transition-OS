@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="VITAVECTOR-85 logo">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#7bf0b5"/><stop offset="1" stop-color="#7dd7ff"/></linearGradient></defs>
+  <circle cx="64" cy="64" r="58" fill="#07130f" stroke="url(#g)" stroke-width="4"/>
+  <path d="M34 86 C48 82 55 72 62 59 C70 45 82 36 98 34" fill="none" stroke="url(#g)" stroke-width="8" stroke-linecap="round"/>
+  <path d="M78 31 L101 32 L99 55" fill="none" stroke="#bfffdc" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="42" cy="83" r="6" fill="#ffc66d"/><circle cx="63" cy="59" r="6" fill="#7bf0b5"/><circle cx="98" cy="34" r="6" fill="#7dd7ff"/>
+</svg>

@@ -51,23 +51,3 @@ The system provides no `humanity_score`, personhood rank, intrinsic worth score,
 ## License
 
 Apache License 2.0. See `LICENSE` and `NOTICE`.
-
-
-<!-- DIKWP-SOURCE-VISIBILITY-START -->
-## Browse source / 浏览源码
-
-[Source index / 源码入口](SOURCE_INDEX.md) expands the retained archive distribution into browsable files, with archive hashes and per-project provenance. Runtime tests: **NOT_RUN**.
-
-原始压缩包 保留；新增可浏览源码、哈希与来源记录。运行与测试尚未执行，详情见源码入口。
-<!-- DIKWP-SOURCE-VISIBILITY-END -->
-
-
-## Related research navigation / 相关研究导航
-
-Research navigation, not verified software dependencies. / 研究导航，不代表已验证的软件依赖关系。
-
-- [DIKWP-TRANSITION-COMMONS](https://github.com/YucongDuan/DIKWP-TRANSITION-COMMONS)
-- [HEHENG-China-AI-Co-Benefit-Transition-Organizational-Resilience-OS](https://github.com/YucongDuan/HEHENG-China-AI-Co-Benefit-Transition-Organizational-Resilience-OS)
-- [HUMAN-INTENT-COMMONS-YIYUAN-19.0.0](https://github.com/YucongDuan/HUMAN-INTENT-COMMONS-YIYUAN-19.0.0)
-- [HumanityLoop](https://github.com/YucongDuan/HumanityLoop)
-- [DIKWP-GLOBAL-ACTIVE-ECONOMY-CIVICWEAVE](https://github.com/YucongDuan/DIKWP-GLOBAL-ACTIVE-ECONOMY-CIVICWEAVE)

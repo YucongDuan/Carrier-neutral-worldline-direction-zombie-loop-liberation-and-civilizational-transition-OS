@@ -1,0 +1,786 @@
+{
+  "schema": "safe-source-preparation/v1",
+  "status": "STRUCTURALLY_PREPARED_UNTESTED",
+  "prepared_at_utc": "2026-09-07T05:18:15.117967+00:00",
+  "source": {
+    "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0.zip",
+    "archive_bytes": 127520,
+    "sha256": "c1087ef3a175a1aaa3ddfafad01e38fab62305bdad5dc87a7e28ecb9f10ba45d",
+    "source_url": "https://raw.githubusercontent.com/YucongDuan/Carrier-neutral-worldline-direction-zombie-loop-liberation-and-civilizational-transition-OS/844763c3e4ef0b7acbaaa82a9238a1ff87065033/DIKWP_VITAVECTOR_85_v1.0.0.zip",
+    "original_unchanged": true
+  },
+  "destination": "source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff",
+  "unwrapped_directory": "DIKWP_VITAVECTOR_85_v1.0.0",
+  "project_marker_directories": [
+    "."
+  ],
+  "limits": {
+    "max_entries": 20000,
+    "max_file_bytes": 103809024,
+    "max_total_bytes": 536870912,
+    "max_archive_bytes": 104857600,
+    "max_ratio": 200.0,
+    "max_path_depth": 64,
+    "max_path_bytes": 1024
+  },
+  "workflows": {
+    "included_in_source": false,
+    "authority": "",
+    "executed": false,
+    "default": "quarantine"
+  },
+  "warnings": [
+    "GitHub workflows require explicit human review before activation."
+  ],
+  "files": [
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/.github/ISSUE_TEMPLATE/worldline.yml",
+      "output_path": "source/.github/ISSUE_TEMPLATE/worldline.yml",
+      "kind": "file",
+      "bytes": 525,
+      "sha256": "bcf14bd27bdba0c832c5d8fc3e570698de6d3ea485a15f10932bdb532ec936eb",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/.github/PULL_REQUEST_TEMPLATE.md",
+      "output_path": "source/.github/PULL_REQUEST_TEMPLATE.md",
+      "kind": "file",
+      "bytes": 227,
+      "sha256": "4fb3240b322e44a885ed3b6dc85a06c191b5f1b4410b24857109d1e22f3df2d4",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/.github/workflows/ci.yml",
+      "output_path": "review-quarantine/.github/workflows/ci.yml",
+      "kind": "file",
+      "bytes": 274,
+      "sha256": "55b7efb894f8175778798b2e69f338f50448cdcbfff27f91cc1566aa2bf86bd2",
+      "original_mode": "0o100644",
+      "quarantined": true
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/.gitignore",
+      "output_path": "source/.gitignore",
+      "kind": "file",
+      "bytes": 93,
+      "sha256": "e089ca9a086d17d0793e69b9b258deb82f020883a43bdcc2ed7d0c3781c591f7",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/ANTI_DEHUMANIZATION_BOUNDARY.md",
+      "output_path": "source/ANTI_DEHUMANIZATION_BOUNDARY.md",
+      "kind": "file",
+      "bytes": 1000,
+      "sha256": "ddc7efcb7d16ce8e3424ca017897f836930c525e02df87581763f4c5993b0be2",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/CHANGELOG.md",
+      "output_path": "source/CHANGELOG.md",
+      "kind": "file",
+      "bytes": 327,
+      "sha256": "b16d4edb45632d568516aef16cce57308490d2d307a56b53719a12bc4bf7efd0",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/CITATION.cff",
+      "output_path": "source/CITATION.cff",
+      "kind": "file",
+      "bytes": 333,
+      "sha256": "770dcf97ff4604fd440519c9b6eb7387e49ccfb35634d0b024f81b2c084daa7e",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/CODE_OF_CONDUCT.md",
+      "output_path": "source/CODE_OF_CONDUCT.md",
+      "kind": "file",
+      "bytes": 207,
+      "sha256": "f538693f9920aeda8e10e5ccba176c6e5992e3fed9e7fb341f8135fc880ab5cd",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/CONTRIBUTING.md",
+      "output_path": "source/CONTRIBUTING.md",
+      "kind": "file",
+      "bytes": 508,
+      "sha256": "51dcdb9d55ace7c7d8189711c0e6fed577903361055838b25590b2a14cd291d5",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/FOUNDER_ENERGY_COMPACT.md",
+      "output_path": "source/FOUNDER_ENERGY_COMPACT.md",
+      "kind": "file",
+      "bytes": 542,
+      "sha256": "3f915a182aa6ccc60c80a47a39067c8896ac29f68f81a247e88e5198231d16b9",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/GOVERNANCE.md",
+      "output_path": "source/GOVERNANCE.md",
+      "kind": "file",
+      "bytes": 705,
+      "sha256": "bf4fc1a99e8bfac0f353262ba1dd6714cef448d5afbfa2d5784a8e8f9df69b5b",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/LAUNCH_90_DAYS.md",
+      "output_path": "source/LAUNCH_90_DAYS.md",
+      "kind": "file",
+      "bytes": 855,
+      "sha256": "581070f0fd050605e1662e80dde47c445cc30fa73199a3af5ee4b49deaf4b82f",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/LICENSE",
+      "output_path": "source/LICENSE",
+      "kind": "file",
+      "bytes": 9428,
+      "sha256": "57a2d7ed8a1ab4299dc33433790e7586b2b94b61eec85f7b711623af4c3b30cc",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/MANIFEST.sha256",
+      "output_path": "source/MANIFEST.sha256",
+      "kind": "file",
+      "bytes": 7518,
+      "sha256": "f96ce14309ab1332aca6480dbab624aaecd305db9520b0a0c88ee891a1345ab5",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/Makefile",
+      "output_path": "source/Makefile",
+      "kind": "file",
+      "bytes": 275,
+      "sha256": "83b97f249a95eba6b1509d688b6b9dc8819d88fc742c6b02df947e853a679b7b",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/NOTICE",
+      "output_path": "source/NOTICE",
+      "kind": "file",
+      "bytes": 229,
+      "sha256": "e313c8d24f9cbd5ae039b6c597b73b0fcebb2d7d36c7f05f3b37093e2f6e3aff",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/PUBLIC_LAUNCH_TEXT.md",
+      "output_path": "source/PUBLIC_LAUNCH_TEXT.md",
+      "kind": "file",
+      "bytes": 621,
+      "sha256": "d819f23a963bd0c05ae156892c59bc101bebf0622702217e216186c62861885d",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/README.md",
+      "output_path": "source/README.md",
+      "kind": "file",
+      "bytes": 2076,
+      "sha256": "8cdace77e957c4e713b91542dbed9bc289a8b6512a3a9b715bb8a3854f5b7d07",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/README.zh-CN.md",
+      "output_path": "source/README.zh-CN.md",
+      "kind": "file",
+      "bytes": 3053,
+      "sha256": "446069f106e0feeee14a7fa7f4819f6badbe042b4acb9c191fb9f50fb48e650d",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/ROADMAP.md",
+      "output_path": "source/ROADMAP.md",
+      "kind": "file",
+      "bytes": 404,
+      "sha256": "4b811d57ac52346fb154dd9bbd07626f701b97917d5489ba53dce19432830b2f",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/SECURITY.md",
+      "output_path": "source/SECURITY.md",
+      "kind": "file",
+      "bytes": 486,
+      "sha256": "a2b2adc1a3c79ee4d75d0d0d0c044b0f6fadbbf1633ba24ede9f478ad5b96429",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/START_DEMO.command",
+      "output_path": "source/START_DEMO.command",
+      "kind": "file",
+      "bytes": 59,
+      "sha256": "710c0525b48d5096dce40fec638b2f2342cff00217600b00a90db24ff272c1f1",
+      "original_mode": "0o100755",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/START_VITAVECTOR85.sh",
+      "output_path": "source/START_VITAVECTOR85.sh",
+      "kind": "file",
+      "bytes": 165,
+      "sha256": "b9b1207ab9ddf3dcef63d3c2d2f51d91a06dbe955a3e46ae17bc2bffb559b80a",
+      "original_mode": "0o100755",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/WORLDLINE_CHARTER.md",
+      "output_path": "source/WORLDLINE_CHARTER.md",
+      "kind": "file",
+      "bytes": 1143,
+      "sha256": "271fe3695d767541e5df24fa3fc96b402f62343387b137202460183a856392dd",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/assets/app.js",
+      "output_path": "source/assets/app.js",
+      "kind": "file",
+      "bytes": 24303,
+      "sha256": "9363ad04e32d55a9da95c019dc702e3a2d728d23bb20f2e8460f4388b4462005",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/assets/logo.svg",
+      "output_path": "source/assets/logo.svg",
+      "kind": "file",
+      "bytes": 732,
+      "sha256": "55e4be32eca6bffd424baea0e0084f64d49522b7574c4ee29a1b3f13a64d54dc",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/assets/styles.css",
+      "output_path": "source/assets/styles.css",
+      "kind": "file",
+      "bytes": 15827,
+      "sha256": "4aebc4bcc01462904f15a06f8269158f6aecacbea6005553b8d23fb0249accf7",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/docs/00_thesis.md",
+      "output_path": "source/docs/00_thesis.md",
+      "kind": "file",
+      "bytes": 495,
+      "sha256": "591bdd0f2a0a39171972db0cbff15f459b4d13ac38c9068c201f58a60c0f9c31",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/docs/01_formal_model.md",
+      "output_path": "source/docs/01_formal_model.md",
+      "kind": "file",
+      "bytes": 913,
+      "sha256": "2b8e5b91a2be2a87927609a5e9b1963edc8a580735a51d7c264751792d9a34d4",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/docs/02_states_and_transitions.md",
+      "output_path": "source/docs/02_states_and_transitions.md",
+      "kind": "file",
+      "bytes": 635,
+      "sha256": "1a3b028234feae71e7a6c10fec36f9f178425f8b2901e0570d380067cecc49d1",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/docs/03_zombie_loop_liberation.md",
+      "output_path": "source/docs/03_zombie_loop_liberation.md",
+      "kind": "file",
+      "bytes": 559,
+      "sha256": "6fc4a52980b240012f823454945c3917396c5cc2b738574bbe6aa6d932353dec",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/docs/04_use_cases.md",
+      "output_path": "source/docs/04_use_cases.md",
+      "kind": "file",
+      "bytes": 516,
+      "sha256": "8bd4ed49a89c80a2e6882351f5839074790f776716438a39986f68408754baad",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/docs/05_deployment.md",
+      "output_path": "source/docs/05_deployment.md",
+      "kind": "file",
+      "bytes": 447,
+      "sha256": "1272950472bfc5d6335195f33f67286644fbbd4e50fd72e5e2f8248d21159f1d",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/docs/06_migration_from_regen_symbiome.md",
+      "output_path": "source/docs/06_migration_from_regen_symbiome.md",
+      "kind": "file",
+      "bytes": 621,
+      "sha256": "0b69a76776ee978af2a4ba6ee1a1d43274bb3e4465118194e16e442bc9ac908a",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/examples/civilizing_transition.json",
+      "output_path": "source/examples/civilizing_transition.json",
+      "kind": "file",
+      "bytes": 1111,
+      "sha256": "cb6e84fa261755f3e31239b5ea694188311e0116d90b084fb1b942cc5534da53",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/examples/domination_descent.json",
+      "output_path": "source/examples/domination_descent.json",
+      "kind": "file",
+      "bytes": 1163,
+      "sha256": "3a8a5fa62d5c947cbc38fbfe98be376d7d80211a1f90f0a2dbc30b71fba2758d",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/examples/parasitic_loop.json",
+      "output_path": "source/examples/parasitic_loop.json",
+      "kind": "file",
+      "bytes": 1225,
+      "sha256": "b56de52927c947d4c00e5a0bd5b9cc80ee0b12fa794ddc4e95d3c1afbe80e459",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/examples/regenerative_transition.json",
+      "output_path": "source/examples/regenerative_transition.json",
+      "kind": "file",
+      "bytes": 1267,
+      "sha256": "aeff4ae611f26ffd71ec8c1f4c3571a5113a7fa868489ed98b2ea8d605db7402",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/examples/terminal_harm.json",
+      "output_path": "source/examples/terminal_harm.json",
+      "kind": "file",
+      "bytes": 1149,
+      "sha256": "d2bb6200391619e0898b280b1000c7b002790fd76ac2ffc52f7aba816b5b1c76",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/examples/zombie_intervention.json",
+      "output_path": "source/examples/zombie_intervention.json",
+      "kind": "file",
+      "bytes": 294,
+      "sha256": "565c7ee495158d914a787b441713c6dba5125d116b03ed46d631164f5a302fdf",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/examples/zombie_loop.json",
+      "output_path": "source/examples/zombie_loop.json",
+      "kind": "file",
+      "bytes": 1298,
+      "sha256": "d05f290b4b49ea1d7e381850ff9e78c6ae6c46761d450adff500cd82e92e833b",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/examples/zombie_outcome.json",
+      "output_path": "source/examples/zombie_outcome.json",
+      "kind": "file",
+      "bytes": 782,
+      "sha256": "696661ba4b0526b434876610447812e0b9f8fec56104a8be41715e2be0c3c2df",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/index.html",
+      "output_path": "source/index.html",
+      "kind": "file",
+      "bytes": 19154,
+      "sha256": "f174e9ac947d3308e9a3f2441c2661ac2bc45b4ccf36441a3062a954f177a2d0",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/manifest.webmanifest",
+      "output_path": "source/manifest.webmanifest",
+      "kind": "file",
+      "bytes": 204,
+      "sha256": "4756c43f54b2ed7dcc454251e6cdc4aac42784f0f1c62f93fc701193f2ed1453",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/outputs/.gitkeep",
+      "output_path": "source/outputs/.gitkeep",
+      "kind": "file",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/pyproject.toml",
+      "output_path": "source/pyproject.toml",
+      "kind": "file",
+      "bytes": 883,
+      "sha256": "60583946b7d97872ceea05a3f0445de79beb982bc4ae0beb4c55de0acb71ba34",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/run.py",
+      "output_path": "source/run.py",
+      "kind": "file",
+      "bytes": 91,
+      "sha256": "89a0574fc5390b31f9089d7ce7daaa6d711eca51337908cde4bc9b629f1772de",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/schemas/intervention.schema.json",
+      "output_path": "source/schemas/intervention.schema.json",
+      "kind": "file",
+      "bytes": 451,
+      "sha256": "7f95e275253ea5c100c1d46f2073ac370abd9e8cbad52ec89e9ae51c3e9909ea",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/schemas/outcome.schema.json",
+      "output_path": "source/schemas/outcome.schema.json",
+      "kind": "file",
+      "bytes": 665,
+      "sha256": "8b6c9fcca7e2517399d887c7d4861454442bdee1a12212ec612dbb85d06a2ed1",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/schemas/worldline.schema.json",
+      "output_path": "source/schemas/worldline.schema.json",
+      "kind": "file",
+      "bytes": 1201,
+      "sha256": "56f9638919171941144c9eb627dc46118cbc071f7187cf25ae96c7a99f1afdd2",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/scripts/publish_github.sh",
+      "output_path": "source/scripts/publish_github.sh",
+      "kind": "file",
+      "bytes": 717,
+      "sha256": "912eac73d799100cd682d2e4791e6ecb28fa8ea1b741439ef967251dcfca33d6",
+      "original_mode": "0o100755",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/start_showcase.py",
+      "output_path": "source/start_showcase.py",
+      "kind": "file",
+      "bytes": 524,
+      "sha256": "327d97d955a8cb5737cd0b01e03cc5ba828184776569d5aa2419ff85b9a7283b",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/tests/test_core.py",
+      "output_path": "source/tests/test_core.py",
+      "kind": "file",
+      "bytes": 4010,
+      "sha256": "75efd8e740d5fe047c8de3d8cb8fa2c2bee4dbd9abdb4fe37f2837a7f19d82aa",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/tests/test_server.py",
+      "output_path": "source/tests/test_server.py",
+      "kind": "file",
+      "bytes": 1846,
+      "sha256": "ddf18925bb9ca6e0d660ac6640fc18d76c48cb9d252da5dcbae25e800abb07fa",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/tests/test_store.py",
+      "output_path": "source/tests/test_store.py",
+      "kind": "file",
+      "bytes": 1465,
+      "sha256": "f101785f86905883bcf0a3f1650c9e981e0ac88c5487984de1cd3b2eb598e75f",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/tools/acceptance.py",
+      "output_path": "source/tools/acceptance.py",
+      "kind": "file",
+      "bytes": 3141,
+      "sha256": "622b51cfa7f3ec10e43ba51b8f0a4dd3d0e3378cdb4064403df43bc941cba2a5",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/tools/build_manifest.py",
+      "output_path": "source/tools/build_manifest.py",
+      "kind": "file",
+      "bytes": 587,
+      "sha256": "4b62d594d10e63692a11dd8f9e28b53718e35e814ec0b1dfdcd51f4d66abb2e8",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/tools/static_audit.py",
+      "output_path": "source/tools/static_audit.py",
+      "kind": "file",
+      "bytes": 2581,
+      "sha256": "67b8154fbce8405f28610adcc14fa37fc8f19574661cf0ac868066fde8f7d543",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/tools/verify_release.py",
+      "output_path": "source/tools/verify_release.py",
+      "kind": "file",
+      "bytes": 869,
+      "sha256": "d57b30420330a1eb0117f8c33ada0afe72bae030b545d78209fc7633c567ef60",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/var/.gitkeep",
+      "output_path": "source/var/.gitkeep",
+      "kind": "file",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/__init__.py",
+      "output_path": "source/vitavector85/__init__.py",
+      "kind": "file",
+      "bytes": 413,
+      "sha256": "e8cc075715117e1df61dfe327a2452195bd9ae3d80af88c77599b82b7ca4ab9f",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/cli.py",
+      "output_path": "source/vitavector85/cli.py",
+      "kind": "file",
+      "bytes": 5557,
+      "sha256": "32a13cdc9ca63d79a203777140fdf7f6efd128e692040cd13e444efe311039a8",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/core.py",
+      "output_path": "source/vitavector85/core.py",
+      "kind": "file",
+      "bytes": 35585,
+      "sha256": "52cc3575b62a9ca5adea2b357b0d648145a1a7919565a7fba180d79431f85ead",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/resources/assets/app.js",
+      "output_path": "source/vitavector85/resources/assets/app.js",
+      "kind": "file",
+      "bytes": 24303,
+      "sha256": "9363ad04e32d55a9da95c019dc702e3a2d728d23bb20f2e8460f4388b4462005",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/resources/assets/logo.svg",
+      "output_path": "source/vitavector85/resources/assets/logo.svg",
+      "kind": "file",
+      "bytes": 732,
+      "sha256": "55e4be32eca6bffd424baea0e0084f64d49522b7574c4ee29a1b3f13a64d54dc",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/resources/assets/styles.css",
+      "output_path": "source/vitavector85/resources/assets/styles.css",
+      "kind": "file",
+      "bytes": 15827,
+      "sha256": "4aebc4bcc01462904f15a06f8269158f6aecacbea6005553b8d23fb0249accf7",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/resources/examples/civilizing_transition.json",
+      "output_path": "source/vitavector85/resources/examples/civilizing_transition.json",
+      "kind": "file",
+      "bytes": 1111,
+      "sha256": "cb6e84fa261755f3e31239b5ea694188311e0116d90b084fb1b942cc5534da53",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/resources/examples/domination_descent.json",
+      "output_path": "source/vitavector85/resources/examples/domination_descent.json",
+      "kind": "file",
+      "bytes": 1163,
+      "sha256": "3a8a5fa62d5c947cbc38fbfe98be376d7d80211a1f90f0a2dbc30b71fba2758d",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/resources/examples/parasitic_loop.json",
+      "output_path": "source/vitavector85/resources/examples/parasitic_loop.json",
+      "kind": "file",
+      "bytes": 1225,
+      "sha256": "b56de52927c947d4c00e5a0bd5b9cc80ee0b12fa794ddc4e95d3c1afbe80e459",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/resources/examples/regenerative_transition.json",
+      "output_path": "source/vitavector85/resources/examples/regenerative_transition.json",
+      "kind": "file",
+      "bytes": 1267,
+      "sha256": "aeff4ae611f26ffd71ec8c1f4c3571a5113a7fa868489ed98b2ea8d605db7402",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/resources/examples/terminal_harm.json",
+      "output_path": "source/vitavector85/resources/examples/terminal_harm.json",
+      "kind": "file",
+      "bytes": 1149,
+      "sha256": "d2bb6200391619e0898b280b1000c7b002790fd76ac2ffc52f7aba816b5b1c76",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/resources/examples/zombie_intervention.json",
+      "output_path": "source/vitavector85/resources/examples/zombie_intervention.json",
+      "kind": "file",
+      "bytes": 294,
+      "sha256": "565c7ee495158d914a787b441713c6dba5125d116b03ed46d631164f5a302fdf",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/resources/examples/zombie_loop.json",
+      "output_path": "source/vitavector85/resources/examples/zombie_loop.json",
+      "kind": "file",
+      "bytes": 1298,
+      "sha256": "d05f290b4b49ea1d7e381850ff9e78c6ae6c46761d450adff500cd82e92e833b",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/resources/examples/zombie_outcome.json",
+      "output_path": "source/vitavector85/resources/examples/zombie_outcome.json",
+      "kind": "file",
+      "bytes": 782,
+      "sha256": "696661ba4b0526b434876610447812e0b9f8fec56104a8be41715e2be0c3c2df",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/resources/index.html",
+      "output_path": "source/vitavector85/resources/index.html",
+      "kind": "file",
+      "bytes": 19154,
+      "sha256": "f174e9ac947d3308e9a3f2441c2661ac2bc45b4ccf36441a3062a954f177a2d0",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/resources/manifest.webmanifest",
+      "output_path": "source/vitavector85/resources/manifest.webmanifest",
+      "kind": "file",
+      "bytes": 204,
+      "sha256": "4756c43f54b2ed7dcc454251e6cdc4aac42784f0f1c62f93fc701193f2ed1453",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/resources/schemas/intervention.schema.json",
+      "output_path": "source/vitavector85/resources/schemas/intervention.schema.json",
+      "kind": "file",
+      "bytes": 451,
+      "sha256": "7f95e275253ea5c100c1d46f2073ac370abd9e8cbad52ec89e9ae51c3e9909ea",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/resources/schemas/outcome.schema.json",
+      "output_path": "source/vitavector85/resources/schemas/outcome.schema.json",
+      "kind": "file",
+      "bytes": 665,
+      "sha256": "8b6c9fcca7e2517399d887c7d4861454442bdee1a12212ec612dbb85d06a2ed1",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/resources/schemas/worldline.schema.json",
+      "output_path": "source/vitavector85/resources/schemas/worldline.schema.json",
+      "kind": "file",
+      "bytes": 1201,
+      "sha256": "56f9638919171941144c9eb627dc46118cbc071f7187cf25ae96c7a99f1afdd2",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/server.py",
+      "output_path": "source/vitavector85/server.py",
+      "kind": "file",
+      "bytes": 6413,
+      "sha256": "fefb6bca9e5aa0a4b3c62604a4f3584d4ebbcbe1ae9bcbc4c042b6c861e9564f",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/vitavector85/store.py",
+      "output_path": "source/vitavector85/store.py",
+      "kind": "file",
+      "bytes": 8923,
+      "sha256": "c05edb594b1bede540976da1b5156d8c7580040e675030194442091be7a3ef98",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/打开生向VITAVECTOR85.bat",
+      "output_path": "source/打开生向VITAVECTOR85.bat",
+      "kind": "file",
+      "bytes": 175,
+      "sha256": "82ef5220cbcbe43b92b983051bfe7a52642a11e7c6b63b858dbf6813946360c7",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "DIKWP_VITAVECTOR_85_v1.0.0/生向_VITAVECTOR85_离线展示_双击打开_v1.0.0.html",
+      "output_path": "source/生向_VITAVECTOR85_离线展示_双击打开_v1.0.0.html",
+      "kind": "file",
+      "bytes": 59235,
+      "sha256": "8b4e6675e92de78f80d04725cf4f40ec42552204e7dd277502d8d0f6b5e77077",
+      "original_mode": "0o100644",
+      "quarantined": false
+    }
+  ],
+  "evidence_boundary": "Safety of ZIP paths/budgets only. No code, install, build, tests, network, git operation, license reassignment, or certification was performed.",
+  "nested_archive_policy": "Each ZIP recursively inspected to bounded depth; all versions preserved; see root SOURCE_PROVENANCE.json."
+}

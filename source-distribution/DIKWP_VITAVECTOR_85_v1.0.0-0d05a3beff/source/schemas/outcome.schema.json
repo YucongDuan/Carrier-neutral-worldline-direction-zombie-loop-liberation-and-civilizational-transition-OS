@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://dikwp.example/schemas/vitavector85/outcome.schema.json",
+  "title": "VITAVECTOR-85 Outcome",
+  "type": "object",
+  "required": ["summary"],
+  "properties": {
+    "summary": {"type": "string", "minLength": 3},
+    "observed": {"type": "boolean"},
+    "agency_change": {"enum": ["expanded", "stable", "shrunk", "unknown"]},
+    "dependency_change": {"enum": ["decreased", "stable", "increased", "unknown"]},
+    "resource_return_change": {"enum": ["positive", "balanced", "negative", "unknown"]},
+    "future_options_change": {"enum": ["expanded", "stable", "shrunk", "unknown"]}
+  }
+}

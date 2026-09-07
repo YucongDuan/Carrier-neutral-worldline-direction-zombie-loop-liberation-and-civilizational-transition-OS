@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dikwp-vitavector85"
+version = "1.0.0"
+description = "Carrier-neutral worldline direction, zombie-loop liberation and civilizational transition OS"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "Apache-2.0"}
+authors = [{name = "Yucong Duan / DIKWP open research"}]
+keywords = ["DIKWP", "MESH8.5", "worldline", "corrigibility", "anti-domination", "digital life"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: Apache Software License",
+  "Operating System :: OS Independent"
+]
+
+[project.scripts]
+vitavector85 = "vitavector85.cli:main"
+
+[tool.setuptools]
+packages = ["vitavector85"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.setuptools.package-data]
+vitavector85 = ["resources/**/*"]

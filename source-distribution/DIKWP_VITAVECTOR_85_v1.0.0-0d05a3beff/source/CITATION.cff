@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "DIKWP VITAVECTOR-85"
+message: "Please cite this software and preserve the conceptual origin."
+type: software
+version: 1.0.0
+authors:
+  - family-names: Duan
+    given-names: Yucong
+abstract: "Carrier-neutral worldline direction, zombie-loop liberation and civilizational transition OS."
+license: Apache-2.0

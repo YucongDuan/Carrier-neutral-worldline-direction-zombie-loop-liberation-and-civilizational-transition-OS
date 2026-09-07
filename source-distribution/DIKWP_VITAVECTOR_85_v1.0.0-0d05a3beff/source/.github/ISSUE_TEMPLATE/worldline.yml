@@ -1,0 +1,15 @@
+name: Worldline benchmark or counterexample
+description: Submit a bounded process window, not a permanent identity judgment.
+body:
+  - type: textarea
+    id: window
+    attributes: {label: Bounded worldline window}
+    validations: {required: true}
+  - type: textarea
+    id: evidence
+    attributes: {label: Sources, differences and affected worlds}
+    validations: {required: true}
+  - type: textarea
+    id: counterexample
+    attributes: {label: Counterexample or correction condition}
+    validations: {required: true}
