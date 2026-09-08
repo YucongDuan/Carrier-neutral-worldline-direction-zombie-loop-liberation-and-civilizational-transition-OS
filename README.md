@@ -1,6 +1,8 @@
 # DIKWP VITAVECTOR-85
 
-**Carrier-neutral worldline direction, zombie-loop liberation and civilizational transition OS.**
+Created by Yucong Duan (段玉聪).
+
+Carrier-neutral worldline direction, zombie-loop liberation and civilizational transition OS.
 
 > Do not define who is human. Diagnose the direction of a worldline.
 
@@ -56,7 +58,7 @@ Apache License 2.0. See `LICENSE` and `NOTICE`.
 <!-- DIKWP-SOURCE-VISIBILITY-START -->
 ## Browse source / 浏览源码
 
-[Source index / 源码入口](SOURCE_INDEX.md) expands the retained archive distribution into browsable files, with archive hashes and per-project provenance. Runtime tests: **NOT_RUN**.
+[Source index / 源码入口](SOURCE_INDEX.md) expands the retained archive distribution into browsable files, with archive hashes and per-project provenance. Runtime tests: NOT_RUN.
 
 原始压缩包 保留；新增可浏览源码、哈希与来源记录。运行与测试尚未执行，详情见源码入口。
 <!-- DIKWP-SOURCE-VISIBILITY-END -->
@@ -71,3 +73,7 @@ Research navigation, not verified software dependencies. / 研究导航，不代
 - [HUMAN-INTENT-COMMONS-YIYUAN-19.0.0](https://github.com/YucongDuan/HUMAN-INTENT-COMMONS-YIYUAN-19.0.0)
 - [HumanityLoop](https://github.com/YucongDuan/HumanityLoop)
 - [DIKWP-GLOBAL-ACTIVE-ECONOMY-CIVICWEAVE](https://github.com/YucongDuan/DIKWP-GLOBAL-ACTIVE-ECONOMY-CIVICWEAVE)
+
+## Current interface presentation
+
+[Open the interface source](source-distribution/DIKWP_VITAVECTOR_85_v1.0.0-0d05a3beff/source/index.html) from the current repository download. See [interface and authorship notes](INTERFACE_NOTES.md) for English coverage, report generation and validation scope.
